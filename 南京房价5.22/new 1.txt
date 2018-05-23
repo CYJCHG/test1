@@ -1,0 +1,38 @@
+http://newhouse.nanjing.fang.com/house/s/b914/
+
+
+
+#sjina_C39_02 > a
+
+//*[@id="sjina_C39_02"]/a
+
+
+#newhouse_loupai_list > ul > li:nth-child(1)
+
+#sjina_C20_02 > a
+#sjina_C21_02 > a
+#sjina_C22_02 > a
+
+#sjina_C20_02 > a
+#sjina_C24_04
+
+//*[@id="sjina_C24_07"]/span
+
+#sjina_C24_07 > span
+#newhouse_loupai_list > ul > li:nth-child(22) > div > div.nlc_details > div.nhouse_price > span
+#newhouse_loupai_list > ul > li:nth-child(19) > div > div.nlc_details > div.nhouse_price > span
+#sjina_C37_07 > a:nth-child(2)
+#sjina_C35_07 > a:nth-child(2)
+#sjina_C39_07 > a:nth-child(2)
+#sjina_C22_07 > a:nth-child(2)
+#sjina_C22_03 > a > span
+#sjina_D52_02 > a
+
+#sjina_D41_02 > a
+#newhouse_loupai_list > ul > li:nth-child(20) > div > div.nlc_details > div.nhouse_price > span
+
+
+
+
+#newhouse_loupai_list > ul > li:nth-child(15) > div > div.nlc_details > div.nhouse_price > span
+#newhouse_loupai_list > ul > li:nth-child(17) > div > div.nlc_details > div.nhouse_price > span
