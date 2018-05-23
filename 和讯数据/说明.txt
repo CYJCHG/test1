@@ -1,0 +1,1 @@
+chen_hexun_2015.py是以python3为基础的爬虫代码，没有使用代理。和python2相比，except exception ，e用（e）替换了，print必须加括号，MYSQLPY用pymysql替换，sys的导入方式也改变了。
